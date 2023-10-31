@@ -43,7 +43,7 @@ Ensure that the paths to the Bash scripts and Nginx configuration files are corr
 
 1. Security: Be cautious when executing external commands from PHP, as it can pose security risks. Implement proper input validation and access control to prevent unauthorized access.
 
-2. Authentication: This code does not include user authentication. Consider adding authentication mechanisms to restrict access to authorized users only.
+2. Authentication: This code does not include user authentication yet. Consider adding authentication mechanisms to restrict access to authorized users only.
 
 3. Permissions: Ensure that your web server has the necessary permissions to execute the Bash scripts. Limit the scripts' permissions to prevent unauthorized modifications.
 
