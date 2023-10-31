@@ -25,7 +25,7 @@ Before using this application, ensure you have the following prerequisites in pl
 1. Clone this repository to your web server:
 
    ```bash
-    https://github.com/sahilup/RTMP-Stream-Control-Panel.git
+    git clone https://github.com/sahilup/RTMP-Stream-Control-Panel.git
 
 Ensure that the paths to the Bash scripts and Nginx configuration files are correctly specified in the PHP code.
 
