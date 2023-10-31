@@ -1,6 +1,6 @@
 # RTMP-Stream-Control-Panel
 A web-based control panel for managing RTMP streams on an Nginx server.
-
+Note: The project is still under development.
 This GitHub repository contains a web-based interface for controlling RTMP (Real-Time Messaging Protocol) streams on an Nginx server.
 Users can use this interface to enable or disable RTMP streams dynamically.
 
